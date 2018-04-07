@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         //这是一行测试代码
         //再添加一行测试代码
+
+        //又是一行测试代码，哈哈哈
+        String a = "haha";
     }
 }
